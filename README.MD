@@ -33,6 +33,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook Hogwarts para Programadores: O Guia dos Feiticeiros da Programação, como foco em Python, listando os principais pontos com exemplos de código|
 
 | Capa | Gere uma arte de capa com uma bruxa com cabelos cacheados e olhos verdes para esse título poderoso "Hogwarts para Programadores: O Guia dos Feiticeiros da Programação"|
+| :------: | 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 ## ✨ Features
 
