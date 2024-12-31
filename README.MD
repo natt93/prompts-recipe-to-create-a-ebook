@@ -32,12 +32,7 @@ ChatGPT：
 |  título  | Crie um título de um E-book sobre o tema Python, o ebook do nicho de programação e o subnicho é python. O título deve ser épico e curto e tenha uma temática mais nerd e com um toque de humor com Harry Potter, me liste 5 variações d                                                        |
 | conteúdo | Faça um texto para ebook Hogwarts para Programadores: O Guia dos Feiticeiros da Programação, como foco em Python, listando os principais pontos com exemplos de código|
 
-
-ChatGPT：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | Gere uma arte de capa com uma bruxa com cabelos cacheados e olhos verdes para esse título poderoso "Hogwarts para Programadores: O Guia dos Feiticeiros da Programação"|
+| Capa | Gere uma arte de capa com uma bruxa com cabelos cacheados e olhos verdes para esse título poderoso "Hogwarts para Programadores: O Guia dos Feiticeiros da Programação"|
 
 ## ✨ Features
 
